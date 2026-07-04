@@ -1,0 +1,14 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#050510"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/nexusStatus"
+        android:text="NEXUS ONLINE"
+        android:textColor="#00E5FF"
+        android:textSize="22sp"
+        android:fontFamily="monospace"/>
+</LinearLayout>
